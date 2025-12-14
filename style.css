@@ -1,0 +1,12 @@
+th{
+    border: 2px solid rgb(73, 28, 28);
+}
+td{
+    border: 2px solid rgb(187, 124, 124);
+}
+a{
+    background-color: aquamarine;
+}
+textarea{
+    background-color: antiquewhite;
+}
